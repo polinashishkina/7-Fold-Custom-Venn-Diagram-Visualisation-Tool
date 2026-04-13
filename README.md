@@ -92,6 +92,10 @@ For each non-empty geometric region:
 - For certain combinations where automatic positioning causes overlaps, apply manual offsets (e.g., "shift the text for combination C0+C3 upward by 0.8").
 - Render the text in two lines: combination name and customer count.
 
+
+#### Result:
+![Result](https://github.com/polinashishkina/7-Fold-Custom-Venn-Diagram-Visualisation-Tool/blob/main/venn_diagram.png)
+
 #### Step 6: Export
 
 The finished diagram is exported as PNG at a specified resolution. An SVG version is also available for embedding in reports.
@@ -128,12 +132,6 @@ The finished diagram is exported as PNG at a specified resolution. An SVG versio
 
 ---
 
-## Tech Stack
-
-Python, shapely, matplotlib, pandas, numpy
-
----
-
 ## Summary
 
 This project solves a problem for which no off‑the‑shelf solution exists. It combines:
@@ -141,3 +139,9 @@ This project solves a problem for which no off‑the‑shelf solution exists. It
 - Applied mathematics (Bézier curves, splines, Boolean geometry)
 - Engineering work (database integration, optimisation)
 - Product thinking (end‑user convenience)
+
+---
+
+## Tech Stack
+
+Python, shapely, matplotlib, pandas, numpy.
