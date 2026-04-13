@@ -94,7 +94,7 @@ For each non-empty geometric region:
 
 
 #### Result:
-![Result](https://github.com/polinashishkina/7-Fold-Custom-Venn-Diagram-Visualisation-Tool/blob/main/venn_diagram.png)
+![Result](https://github.com/polinashishkina/7-Fold-Custom-Venn-Diagram-Visualisation-Tool/blob/main/7%20Fold%20Venn%20Diagram/venn_diagram.png)
 
 #### Step 6: Export
 
